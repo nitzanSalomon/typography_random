@@ -35,7 +35,7 @@ let data = [
             { transform: "rotateZ(0) translate3D(0, 0, 0)", fontSize: "10vh", top: "0", left: "0"},
             { transform: 
             `rotateZ(${randomNum(-180, 180)}deg)
-            `,fontSize: `${randomNum(5,30)}vh`,
+            `,fontSize: `${randomNum(5,27)}vh`,
             top: `${randomNum(-45,45)}vh`,
             left: `${randomNum(-5,5)}vh`,
         },
