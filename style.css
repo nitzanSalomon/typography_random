@@ -1,0 +1,44 @@
+@font-face {
+    font-family: haddasab;
+    src: url("./fonts/HADASAHB.TTF");
+    font-weight: 500;
+}
+
+.body_container {
+    direction: rtl;
+    position: fixed;
+    margin: 0;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: white;
+    font-family: haddasab;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10vh;
+}
+
+#start_page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.letters {
+    position: relative;
+}
+
+/* @keyframes crazy {
+    from {
+
+    }
+    to {
+
+    }
+} */
+
+/* #letter0 {
+    animation: crazy 7s linear 2s infinite alternate;
+} */
